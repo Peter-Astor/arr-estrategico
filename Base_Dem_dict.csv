@@ -1,4 +1,4 @@
-ID_Sujeto,Origen_Form,expectativa_1,expectativa_2,expectativa_3,ndc_1,ndc_2,ndc_3,ndc_4,ndc_5,ndc_6,sdo_1,sdo_2,sdo_3,sdo_4,sdo_5,sdo_6,sdo_7,sdo_8,sdo_9,sdo_10,Genero,politica,nivel_se
+ID_Sujeto,Origen_Form,expectativa_sin,expectativa_grande,expectativa_pequeña,ndc_1,ndc_2,ndc_3,ndc_4,ndc_5,ndc_6,sdo_1,sdo_2,sdo_3,sdo_4,sdo_5,sdo_6,sdo_7,sdo_8,sdo_9,sdo_10,Genero,politica,nivel_se
 Suj_001,Respuestas de formulario 1,No espero ningún efecto,La opción 2 incrementa la posibilidad de cooperación,La opción 2 incrementa la posibilidad de cooperación,3,3,2,2,4,3,2,4,1,4,3,4,3,5,3,4,Hombre,3,4
 Suj_002,Respuestas de formulario 1,La Opción 1 incrementa la probabilidad de cooperación,La opción 2 incrementa la posibilidad de cooperación,La opción 1 incrementa la posibilidad de cooperación,3,4,3,3,5,5,3,5,2,4,5,3,5,3,2,1,Mujer,3,7
 Suj_003,Respuestas de formulario 1,La Opción 2 incrementa la probabilidad de cooperación,La opción 2 incrementa la posibilidad de cooperación,La opción 2 incrementa la posibilidad de cooperación,4,3,2,2,4,4,2,5,1,5,1,5,1,5,1,1,Mujer,1,5

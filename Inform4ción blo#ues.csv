@@ -1,0 +1,7 @@
+Nombre,nombre diferencia desigualdad final entre opciones,Monto_Inicial_Persona1,Monto_Inicial_Persona2,Repartija,Opcion1_Persona1,Opcion1_Persona2,Opcion2_Persona1,Opcion2_Persona2,Diferencia en el monto inicial,Diferencia desigualdad final entre opciones
+Bloque_1,sin,9000,8000,8000,15000,10000,10000,15000,1000,0
+Bloque_3,sin,10800,9600,9600,18000,12000,12000,18000,1200,0
+Bloque_5,Grande,9000,8000,8000,15000,10000,11000,14000,1000,2000
+Bloque_7,Grande,10800,9600,9600,18000,12000,13200,16800,1200,2400
+Bloque_9,Pequeña,9000,6000,10000,13500,11500,12000,13000,3000,1000
+Bloque_11,Pequeña,10800,7200,12000,16200,13800,14400,15600,3600,1200
