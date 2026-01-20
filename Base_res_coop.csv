@@ -1,0 +1,921 @@
+ID_Sujeto,Origen_Form,Identidad,Bloque,Dilema,Dilema_Opcion,Categoria,Respuesta
+Suj_001,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_001,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_001,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_001,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_001,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_001,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_001,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 2
+Suj_001,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,No cooperar
+Suj_001,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_001,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_001,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_001,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_001,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_001,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_001,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_001,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_001,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_001,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_001,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_001,Respuestas de formulario 1,-,,Atencion,-,2,Opción 2
+Suj_002,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_002,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_002,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_002,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_002,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_002,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_002,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_002,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_002,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_002,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_002,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_002,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_002,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_002,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_002,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_002,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_002,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_002,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_002,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_002,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_003,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_003,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_003,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_003,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_003,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_003,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_003,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_003,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_003,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_003,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_003,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_003,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_003,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_003,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_003,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_003,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_003,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_003,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_003,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_003,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_004,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_004,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_004,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_004,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_004,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_004,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_004,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_004,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_004,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_004,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_004,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_004,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_004,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_004,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_004,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_004,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_004,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_004,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_004,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_004,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_005,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_005,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_005,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_005,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_005,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_005,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_005,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_005,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,No cooperar
+Suj_005,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_005,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_005,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_005,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_005,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_005,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_005,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_005,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_005,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_005,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,No cooperar
+Suj_005,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_005,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_006,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_006,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_006,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_006,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_006,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_006,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_006,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_006,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_006,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_006,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_006,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_006,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_006,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_006,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_006,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_006,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_006,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_006,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_006,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_006,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_007,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_007,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_007,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_007,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_007,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_007,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_007,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_007,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,No cooperar
+Suj_007,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_007,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_007,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_007,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_007,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_007,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_007,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_007,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_007,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_007,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,No cooperar
+Suj_007,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_007,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_008,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_008,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_008,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_008,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_008,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_008,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_008,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_008,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,No cooperar
+Suj_008,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_008,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_008,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_008,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_008,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_008,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_008,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_008,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_008,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_008,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,No cooperar
+Suj_008,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_008,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_009,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_009,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_009,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_009,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_009,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_009,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_009,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_009,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,No cooperar
+Suj_009,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_009,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_009,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_009,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_009,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_009,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_009,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_009,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_009,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_009,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_009,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_009,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_010,Respuestas de formulario 1,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_010,Respuestas de formulario 1,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_010,Respuestas de formulario 1,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_010,Respuestas de formulario 1,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_010,Respuestas de formulario 1,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_010,Respuestas de formulario 1,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_010,Respuestas de formulario 1,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_010,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_010,Respuestas de formulario 1,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_010,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_010,Respuestas de formulario 1,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_010,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_010,Respuestas de formulario 1,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_010,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_010,Respuestas de formulario 1,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_010,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_010,Respuestas de formulario 1,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_010,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_010,Respuestas de formulario 1,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_010,Respuestas de formulario 1,-,,Atencion,-,2,Opción 3
+Suj_011,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_011,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_011,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_011,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_011,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_011,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_011,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_011,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_011,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_011,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_011,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_011,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_011,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_011,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_011,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_011,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_011,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_011,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_011,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_011,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_012,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_012,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_012,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_012,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_012,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_012,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_012,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_012,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_012,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_012,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_012,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_012,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_012,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,No cooperar
+Suj_012,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_012,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_012,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_012,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_012,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_012,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_012,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_013,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_013,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_013,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_013,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_013,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_013,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_013,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_013,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_013,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_013,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_013,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_013,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_013,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_013,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_013,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_013,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_013,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_013,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_013,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_013,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_014,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_014,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_014,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_014,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_014,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_014,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_014,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_014,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_014,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_014,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_014,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_014,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_014,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_014,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_014,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_014,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_014,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_014,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_014,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_014,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_015,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_015,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_015,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_015,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_015,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_015,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_015,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_015,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_015,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_015,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_015,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_015,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_015,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_015,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_015,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_015,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_015,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_015,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_015,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_015,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_016,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_016,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_016,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_016,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_016,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_016,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_016,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_016,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_016,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_016,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_016,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_016,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_016,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_016,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_016,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_016,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_016,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_016,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_016,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_016,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_017,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_017,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_017,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_017,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_017,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_017,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_017,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_017,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_017,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_017,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_017,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_017,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_017,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_017,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_017,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_017,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_017,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_017,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_017,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_017,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_018,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_018,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_018,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_018,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_018,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_018,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_018,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_018,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_018,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_018,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_018,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_018,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_018,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_018,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_018,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_018,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_018,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_018,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_018,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_018,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_019,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_019,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_019,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_019,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_019,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_019,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_019,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_019,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_019,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_019,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_019,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_019,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_019,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_019,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_019,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_019,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_019,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_019,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_019,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_019,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_020,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_020,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_020,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_020,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_020,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_020,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_020,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_020,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_020,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_020,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_020,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_020,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_020,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_020,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_020,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_020,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_020,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_020,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_020,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_020,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_021,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_021,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_021,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_021,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_021,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_021,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_021,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_021,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_021,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_021,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_021,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_021,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_021,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_021,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_021,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_021,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_021,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_021,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_021,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_021,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_022,Respuestas de formulario 2,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_022,Respuestas de formulario 2,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_022,Respuestas de formulario 2,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_022,Respuestas de formulario 2,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_022,Respuestas de formulario 2,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_022,Respuestas de formulario 2,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_022,Respuestas de formulario 2,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_022,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_022,Respuestas de formulario 2,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_022,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_022,Respuestas de formulario 2,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_022,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_022,Respuestas de formulario 2,ALM,Bloque_5,Bloque_CON,2,6,No cooperar
+Suj_022,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_022,Respuestas de formulario 2,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_022,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_022,Respuestas de formulario 2,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_022,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_022,Respuestas de formulario 2,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_022,Respuestas de formulario 2,-,,Atencion,-,2,Opción 3
+Suj_023,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_023,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_023,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_023,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_023,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_023,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_023,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 2
+Suj_023,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_023,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_023,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_023,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_023,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_023,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_023,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_023,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_023,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_023,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_023,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_023,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_023,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_024,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_024,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_024,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_024,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_024,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_024,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_024,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_024,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_024,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_024,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_024,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_024,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_024,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_024,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_024,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_024,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_024,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_024,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_024,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_024,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_025,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_025,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_025,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_025,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_025,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_025,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_025,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_025,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,No cooperar
+Suj_025,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_025,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_025,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_025,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_025,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_025,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_025,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_025,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_025,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_025,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,No cooperar
+Suj_025,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_025,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_026,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_026,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_026,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_026,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_026,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_026,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_026,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_026,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_026,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_026,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_026,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_026,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_026,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_026,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_026,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_026,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_026,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_026,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_026,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_026,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_027,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_027,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_027,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_027,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_027,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_027,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_027,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_027,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_027,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_027,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_027,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_027,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_027,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_027,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_027,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_027,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_027,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_027,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_027,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_027,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_028,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_028,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_028,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_028,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_028,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_028,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_028,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_028,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_028,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_028,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_028,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_028,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_028,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_028,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_028,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_028,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_028,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_028,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_028,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_028,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_029,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_029,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_029,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_029,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_029,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_029,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_029,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_029,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_029,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_029,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_029,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_029,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_029,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_029,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_029,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_029,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_029,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_029,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_029,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_029,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_030,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_030,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_030,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_030,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_030,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_030,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_030,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_030,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_030,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_030,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_030,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_030,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_030,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_030,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_030,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_030,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_030,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_030,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_030,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_030,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_031,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_031,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_031,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_031,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_031,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_031,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_031,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_031,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_031,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_031,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_031,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_031,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_031,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_031,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_031,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_031,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_031,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_031,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_031,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_031,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_032,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_032,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_032,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_032,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_032,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_032,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_032,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_032,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_032,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,No cooperar
+Suj_032,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,Cooperar
+Suj_032,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,No cooperar
+Suj_032,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_032,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_032,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,Cooperar
+Suj_032,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,No cooperar
+Suj_032,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_032,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_032,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_032,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,No cooperar
+Suj_032,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_033,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_033,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_033,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_033,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_033,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_033,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_033,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_033,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_033,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_033,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_033,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_033,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,Cooperar
+Suj_033,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,No cooperar
+Suj_033,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_033,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_033,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,Cooperar
+Suj_033,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,Cooperar
+Suj_033,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,Cooperar
+Suj_033,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_033,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_034,Respuestas de formulario 3,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_034,Respuestas de formulario 3,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_034,Respuestas de formulario 3,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_034,Respuestas de formulario 3,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_034,Respuestas de formulario 3,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_034,Respuestas de formulario 3,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_034,Respuestas de formulario 3,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_034,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,2,1,Cooperar
+Suj_034,Respuestas de formulario 3,ABC,Bloque_1,Bloque_CON,1,2,Cooperar
+Suj_034,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,2,3,No cooperar
+Suj_034,Respuestas de formulario 3,AEF,Bloque_3,Bloque_CON,1,4,Cooperar
+Suj_034,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,2,5,No cooperar
+Suj_034,Respuestas de formulario 3,ALM,Bloque_5,Bloque_CON,1,6,Cooperar
+Suj_034,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,2,7,No cooperar
+Suj_034,Respuestas de formulario 3,AGH,Bloque_7,Bloque_CON,1,8,Cooperar
+Suj_034,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,2,9,No cooperar
+Suj_034,Respuestas de formulario 3,AJK,Bloque_9,Bloque_CON,1,10,No cooperar
+Suj_034,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,2,11,No cooperar
+Suj_034,Respuestas de formulario 3,AQS,Bloque_11,Bloque_CON,1,12,Cooperar
+Suj_034,Respuestas de formulario 3,-,,Atencion,-,2,Opción 3
+Suj_035,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_035,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_035,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_035,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_035,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_035,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_035,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_035,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_035,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_035,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_035,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_035,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_035,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_035,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_035,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_035,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_035,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_035,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_035,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_035,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_036,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_036,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_036,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_036,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_036,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_036,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_036,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 2
+Suj_036,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_036,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_036,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_036,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_036,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_036,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_036,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_036,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_036,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_036,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_036,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_036,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_036,Respuestas de formulario 4,-,,Atencion,-,2,Opción 2
+Suj_037,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_037,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_037,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_037,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_037,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_037,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_037,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_037,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_037,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_037,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_037,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_037,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_037,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_037,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_037,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_037,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_037,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_037,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_037,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_037,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_038,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_038,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_038,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_038,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_038,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,No cooperar
+Suj_038,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_038,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_038,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_038,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_038,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_038,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_038,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_038,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,No cooperar
+Suj_038,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_038,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_038,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_038,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_038,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_038,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_038,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_039,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_039,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_039,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_039,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_039,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_039,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_039,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_039,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_039,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_039,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_039,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_039,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_039,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,No cooperar
+Suj_039,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_039,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_039,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_039,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_039,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_039,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_039,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_040,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_040,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_040,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_040,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_040,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_040,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_040,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_040,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_040,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_040,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_040,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_040,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_040,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_040,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_040,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_040,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_040,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_040,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_040,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_040,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_041,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_041,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_041,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_041,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_041,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_041,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,No cooperar
+Suj_041,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 1
+Suj_041,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_041,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_041,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_041,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_041,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_041,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_041,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_041,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_041,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_041,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_041,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_041,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_041,Respuestas de formulario 4,-,,Atencion,-,2,Opción 1
+Suj_042,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_042,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_042,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_042,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,No cooperar
+Suj_042,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_042,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_042,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 2
+Suj_042,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_042,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_042,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_042,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,No cooperar
+Suj_042,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_042,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_042,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_042,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_042,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_042,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_042,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_042,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_042,Respuestas de formulario 4,-,,Atencion,-,2,Opción 2
+Suj_043,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_043,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_043,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_043,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_043,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_043,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_043,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_043,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_043,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_043,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_043,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_043,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_043,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_043,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_043,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_043,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,No cooperar
+Suj_043,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_043,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_043,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_043,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_044,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,No cooperar
+Suj_044,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,No cooperar
+Suj_044,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,No cooperar
+Suj_044,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_044,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_044,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_044,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_044,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_044,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,No cooperar
+Suj_044,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_044,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_044,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_044,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_044,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_044,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_044,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_044,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_044,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_044,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,Cooperar
+Suj_044,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_045,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_045,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_045,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_045,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_045,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_045,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_045,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_045,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,Cooperar
+Suj_045,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_045,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,Cooperar
+Suj_045,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_045,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,Cooperar
+Suj_045,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,No cooperar
+Suj_045,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,Cooperar
+Suj_045,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,No cooperar
+Suj_045,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_045,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,No cooperar
+Suj_045,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,Cooperar
+Suj_045,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_045,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
+Suj_046,Respuestas de formulario 4,ABC,Bloque_1,Bloque_SIN,-,1,Cooperar
+Suj_046,Respuestas de formulario 4,AEF,Bloque_3,Bloque_SIN,-,2,Cooperar
+Suj_046,Respuestas de formulario 4,ALM,Bloque_5,Bloque_SIN,-,3,Cooperar
+Suj_046,Respuestas de formulario 4,AGH,Bloque_7,Bloque_SIN,-,4,Cooperar
+Suj_046,Respuestas de formulario 4,AJK,Bloque_9,Bloque_SIN,-,5,Cooperar
+Suj_046,Respuestas de formulario 4,AQS,Bloque_11,Bloque_SIN,-,6,Cooperar
+Suj_046,Respuestas de formulario 4,-,Bloque_0,Atencion,-,1,Opción 3
+Suj_046,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,1,1,No cooperar
+Suj_046,Respuestas de formulario 4,ABC,Bloque_1,Bloque_CON,2,2,Cooperar
+Suj_046,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,1,3,No cooperar
+Suj_046,Respuestas de formulario 4,AEF,Bloque_3,Bloque_CON,2,4,Cooperar
+Suj_046,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,1,5,No cooperar
+Suj_046,Respuestas de formulario 4,ALM,Bloque_5,Bloque_CON,2,6,Cooperar
+Suj_046,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,1,7,No cooperar
+Suj_046,Respuestas de formulario 4,AGH,Bloque_7,Bloque_CON,2,8,Cooperar
+Suj_046,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,1,9,Cooperar
+Suj_046,Respuestas de formulario 4,AJK,Bloque_9,Bloque_CON,2,10,Cooperar
+Suj_046,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,1,11,No cooperar
+Suj_046,Respuestas de formulario 4,AQS,Bloque_11,Bloque_CON,2,12,No cooperar
+Suj_046,Respuestas de formulario 4,-,,Atencion,-,2,Opción 3
