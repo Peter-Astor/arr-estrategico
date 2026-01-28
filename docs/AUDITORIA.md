@@ -1,6 +1,6 @@
 # Reporte de Auditoría Técnica: Proyecto arr-estrategico
 
-**Fecha:** 24 de Mayo de 2024
+**Fecha:** 28/01/2026
 **Auditor:** Jules (AI Senior Data Scientist)
 **Contexto:** Investigación sobre la Aversión a Revertir el Ranking (ARR) en el Juego del Dictador Desinteresado (JDD).
 
