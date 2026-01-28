@@ -4,24 +4,37 @@ Repositorio para el análisis de datos experimentales del proyecto de investigac
 
 ## 📂 Estructura del Proyecto
 
-### 1. Preprocesamiento y Limpieza
-* **`Limpieza.ipynb`**: Notebook principal. Toma las bases crudas, anonimiza sujetos y genera los dataframes procesados (como `df_long` y `df_expectativas_filtrada`).
-* **`Diccionario de Datos`**: Documento de referencia con la definición de variables y códigos utilizados.
+### 1. Estructura de Directorios
 
-### 2. Análisis Estadísticos (Notebooks)
-Una vez limpios los datos, el análisis se divide en tres ejes principales:
-* **`Efecto tratamiento.ipynb`**: Análisis del impacto de los bloques experimentales principales.
-* **`Efecto Gap.ipynb`**: Evaluación de la variable de costo/diferencia (Gap Size).
-* **`Efecto expectativas.ipynb`**: Análisis específico sobre cómo las expectativas influyen en la decisión (usando `df_expectativas_filtrada`).
+El proyecto se ha modularizado en las siguientes carpetas:
 
-### 3. Datos Procesados (Outputs)
-* **`df_long`**: Base de datos consolidada en formato largo (panel data) lista para modelos de regresión.
-* **`df_expectativas_filtrada`**: Subconjunto de datos filtrado para el análisis de expectativas.
-* **`Base_Dem_dict` / `Base_res_dict`**: Diccionarios de datos demográficos y de resultados.
+*   **`data/`**: Contiene los datos del proyecto.
+    *   **`raw/`**: Datos crudos originales (`Base_Dem_dict.csv`, `Base_res_dict.csv`, etc.).
+    *   **`processed/`**: Dataframes procesados y limpios listos para análisis (`df_long.csv`, `df_expectativas_filtrada.csv`, etc.).
+*   **`scripts/`**: Notebooks de Jupyter para limpieza y análisis estadístico.
+*   **`outputs/`**: Resultados generados por el código.
+    *   **`plots/`**: Gráficos y visualizaciones (`panel_completo_resultados.png`, etc.).
+    *   **`tables/`**: Tablas de resultados (si aplica).
+*   **`docs/`**: Documentación adicional, diccionarios de datos y reportes de auditoría.
 
-### 4. Visualización de Resultados
-* **`panel_completo_resultados.png`**: Vista general consolidada de los hallazgos principales.
-* **`grafico_barras_gap.png`**: Visualización específica de la distribución por Gap.
+### 2. Flujo de Trabajo (Scripts)
+
+Los notebooks se encuentran en la carpeta `scripts/`. El orden sugerido de ejecución es:
+
+1.  **`Limpieza.ipynb`**: Preprocesamiento. Toma los datos de `data/raw/`, anonimiza y genera los archivos en `data/processed/`.
+2.  **Análisis Estadísticos**:
+    *   **`modelos.ipynb`**: Modelos de regresión (GEE) y análisis principales.
+    *   **`Efecto tratamiento.ipynb`**: Impacto de los bloques experimentales.
+    *   **`Efecto Gap.ipynb`**: Evaluación del Gap Size.
+    *   **`Efecto expectativas.ipynb`**: Análisis de expectativas.
+    *   **`efecto del NDC.ipynb`**: Análisis de Need for Cognition.
+    *   **`descriptiv4s.ipynb`**: Análisis descriptivos básicos.
+
+### 3. Documentación
+
+En la carpeta `docs/` encontrará:
+*   **`Diccionario de Datos`**: Definiciones de variables.
+*   **`AUDITORIA.md`**: Reporte de auditoría técnica y metodológica.
 
 ---
-**Nota:** El archivo `borr4dor.ipynb` es un espacio de trabajo temporal para pruebas de código.
+**Nota:** El archivo `scripts/borr4dor.ipynb` es un espacio de trabajo temporal para pruebas de código.
